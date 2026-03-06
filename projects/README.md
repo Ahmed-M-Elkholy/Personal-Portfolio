@@ -1,5 +1,5 @@
 # Projects
 This folder showcases projects I have completed.
 ## Contents
-* [main](Wordle)
+* [Wordle](Wordle)
 * [Project 2](project_2)
